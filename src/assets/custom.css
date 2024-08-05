@@ -1,0 +1,27 @@
+/* src/assets/global.css */
+
+/* Set a background color for the entire app */
+body {
+    background-color: #f8f9fa; /* Light grey background */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* You can change the font as needed */
+  }
+  
+  /* Optionally, set a background image */
+  body {
+    background-image: url('./R.jpeg'); /* Update the path as needed */
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    background-attachment: fixed; /* Keep the image fixed on scroll */
+  }
+  
+  /* Additional global styles */
+  * {
+    box-sizing: border-box;
+  }
+  
+
+  .header-title {
+    color: #f2f2f2;
+  }
