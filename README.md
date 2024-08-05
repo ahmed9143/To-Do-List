@@ -9,3 +9,9 @@ To Do List Using Vue JS + Botstrap
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide]
 (https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+## Download
+git clone https://github.com/ahmed9143/To-Do-List.git
+
+## Run
+yarn install
